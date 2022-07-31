@@ -19,4 +19,22 @@ declare namespace App {
   interface FooterProps extends ComponentsProps {
 
   }
+
+  interface HeroProps extends ComponentsProps {
+
+  }
+
+  interface FeaturesProps extends ComponentsProps {
+
+  }
+
+  interface TestimonialsProps extends ComponentsProps {
+
+  }
+
+  interface NewsletterProps extends ComponentsProps {
+
+  }
+
+
 }
