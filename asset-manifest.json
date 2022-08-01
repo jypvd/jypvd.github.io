@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.8ffe3f9e.css",
-    "main.js": "./static/js/main.b6dc5975.js",
+    "main.css": "./static/css/main.af0ef737.css",
+    "main.js": "./static/js/main.6e503d6f.js",
     "static/js/787.c0033a7f.chunk.js": "./static/js/787.c0033a7f.chunk.js",
     "static/media/hero-main-shape.svg": "./static/media/hero-main-shape.0095da2c53060e471ab4409d6d8a35d0.svg",
-    "static/media/team-member-01.png": "./static/media/team-member-01.afdf9dfce6630c98f0f9.png",
-    "static/media/team-member-03.png": "./static/media/team-member-03.f9af7e0d71c70dba4d8f.png",
-    "static/media/team-member-02.png": "./static/media/team-member-02.7d5ea46807b2bc73f52c.png",
+    "static/media/team-member-03.png": "./static/media/team-member-03.350c09729258e421c1e5.png",
+    "static/media/team-member-02.png": "./static/media/team-member-02.64a75818ec9ac32dfadd.png",
     "static/media/logo.svg": "./static/media/logo.8ec0efc1faafea382008b5dcab0f3777.svg",
     "static/media/social-phone.svg": "./static/media/social-phone.c20a36ac840837536fbb255145171341.svg",
     "static/media/social-weixin.svg": "./static/media/social-weixin.cfd2ad435b14d5d35035380a973c61f1.svg",
-    "static/media/social-qq.svg": "./static/media/social-qq.26de462a8a2e5e832dbf1acd033d9ac8.svg",
     "index.html": "./index.html",
+    "static/media/social-qq.svg": "./static/media/social-qq.26de462a8a2e5e832dbf1acd033d9ac8.svg",
     "static/media/testimonials-shape-2.svg": "./static/media/testimonials-shape-2.be27d39623ffd5d486d94e5ea32121db.svg",
     "static/media/social-email.svg": "./static/media/social-email.f29151dde9e773091a2d3c25ea96b3d2.svg",
     "static/media/header-shape-1.svg": "./static/media/header-shape-1.2d7c4426eccea68b32e2874443016fae.svg",
@@ -24,12 +23,12 @@
     "static/media/feature-icon-1.svg": "./static/media/feature-icon-1.49da9befe5678643d910bfc146ad7992.svg",
     "static/media/hero-shape-1.svg": "./static/media/hero-shape-1.f035ee4eb468ecc71e4f767c32445687.svg",
     "static/media/hero-shape-2.svg": "./static/media/hero-shape-2.db455863401ffd175f1509e0b4de66a4.svg",
-    "main.8ffe3f9e.css.map": "./static/css/main.8ffe3f9e.css.map",
-    "main.b6dc5975.js.map": "./static/js/main.b6dc5975.js.map",
+    "main.af0ef737.css.map": "./static/css/main.af0ef737.css.map",
+    "main.6e503d6f.js.map": "./static/js/main.6e503d6f.js.map",
     "787.c0033a7f.chunk.js.map": "./static/js/787.c0033a7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ffe3f9e.css",
-    "static/js/main.b6dc5975.js"
+    "static/css/main.af0ef737.css",
+    "static/js/main.6e503d6f.js"
   ]
 }
