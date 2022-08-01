@@ -25,6 +25,7 @@ const Header: React.FC<App.HeaderProps> = (props) => {
             <h1 className="m-0">
               <Logo />
             </h1>
+            金鷹
           </div>
         </div>
       </div>

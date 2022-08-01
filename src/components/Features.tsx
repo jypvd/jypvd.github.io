@@ -6,27 +6,27 @@ import {ReactComponent as FeatureIcon3} from '../assets/images/feature-icon-3.sv
 import {ReactComponent as FeatureIcon4} from '../assets/images/feature-icon-4.svg'
 
 const featureContent = {
-  title: 'Meet April',
-  paragraph: 'Lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation.',
+  title: '您信賴的服務商',
+  paragraph: '我們提供的真空鍍膜解決方案和服務能够實現具有精確性、創新性、經濟性和可持續性的製造。',
   items: [
     {
-      title: 'Powerful',
-      text: 'A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements.',
+      title: '真誠服務',
+      text: '金鷹在行業良好的口碑，得益於我們可靠且貼心的服務。',
       icon: FeatureIcon1,
       iconColor: '#FFD2DA'
     },{
-      title: 'Powerful',
-      text: 'A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements.',
+      title: '穩定品質',
+      text: '我們的技術團隊穩重務實，產品品質穩定堅如磐石。',
       icon: FeatureIcon2,
       iconColor: '#FFD8CD'
     },{
-      title: 'Powerful',
-      text: 'A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements.',
+      title: '準時交付',
+      text: '以結果導向的準時交付管理模式，讓我們的管理者明確每個產品的交付時間節點，並以此為目標推動生產。',
       icon: FeatureIcon3,
       iconColor: '#C6FDF3'
     },{
-      title: 'Powerful',
-      text: 'A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements.',
+      title: '精準數據',
+      text: '企業數字化管理讓我們對生產數據瞭若指掌，大大提高生產效率及訂單結案率。',
       icon: FeatureIcon4,
       iconColor: '#E0E1FE'
     }

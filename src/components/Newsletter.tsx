@@ -14,8 +14,8 @@ const Newsletter: React.FC<App.NewsletterProps> = (props) => {
       <div className="container-sm">
         <div className="newsletter-inner section-inner">
           <div className="newsletter-header text-center">
-            <h2 className="section-title mt-0">Stay in the know</h2>
-            <p className="section-paragraph">Lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation.</p>
+            <h2 className="section-title mt-0">獲取更多資訊</h2>
+            <p className="section-paragraph">您需要更詳細的了解我們嗎？</p>
           </div>
           <Mailbox className='footer-form newsletter-form' />
         </div>

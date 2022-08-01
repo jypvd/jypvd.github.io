@@ -8,22 +8,22 @@ import teamMember02 from '../assets/images/team-member-02.png'
 import teamMember03 from '../assets/images/team-member-03.png'
 
 const teams = {
-  title: '我們的團隊',
+  title: '優秀的業務團隊',
   items: [
     {
-      name: 'Jiedong',
+      name: '揭懂先生',
       link: '#',
-      profile: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+      profile: '一頭有些淩亂的卷髮，黑色的大眼睛，高高的鼻樑，嘴角微微上揚，散發出自信的光芒。',
       avatarPath: teamMember01
     },{
-      name: 'Jiechaohai',
+      name: '揭朝海先生',
       link: '#',
-      profile: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+      profile: '一位經驗老道的長者，由他解决複雜問題，便如庖丁解牛，遊刃有餘。',
       avatarPath: teamMember02
     },{
-      name: 'Xierongxiang',
+      name: '謝榮湘先生',
       link: '#',
-      profile: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
+      profile: '於鍍膜行業深耕20餘年，擁有極强的專業技能和業務能力，能超出預期完美的完成任務。',
       avatarPath: teamMember03
     }
   ]

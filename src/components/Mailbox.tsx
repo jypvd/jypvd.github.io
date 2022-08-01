@@ -15,7 +15,7 @@ const Mailbox: React.FC<App.MailboxProps> = (props) => {
         <input className="input" type="email" name="email" placeholder="請留下您的郵箱&hellip;" />
       </div>
       <div className="control">
-        <a className="button button-primary button-block button-shadow" href="#">我們將會聯絡您</a>
+        <a className="button button-primary button-block button-shadow" href="#">我們將與您聯系</a>
       </div>
     </div>
   )
