@@ -36,5 +36,8 @@ declare namespace App {
 
   }
 
+  interface MailboxProps extends ComponentsProps {
+
+  }
 
 }
